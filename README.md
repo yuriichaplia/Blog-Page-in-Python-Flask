@@ -19,5 +19,3 @@ The structure of the JSON bin should be:
     + body : "text here" 
     + title : "some text here"
     + subtitle : "text here"
-
-
