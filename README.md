@@ -4,10 +4,10 @@ This is a simple Python Flask webpage application that works as a blog page wher
 #### You may replace the information on blog page with your own using [API NPoint IO](https://www.npoint.io/). The structure of JSON bin should be: 
 [] JSON<br>
  {} 0 <br>
-    + id : 1
-    + body : "some text here"
-    + title : "some text here"
-    + subtitle : "text here"
+    + id : 1 <br>
+    + body : "some text here" <br>
+    + title : "some text here"<br>
+    + subtitle : "text here"<br>
 1
 id : 2
 body : "Chase ball of string eat plants, meow, and throw up because I ate plants going to catch the red dot today going to catch the red dot today. I could pee on this if I had the energy. Chew iPad power cord steal the warm chair right after you get up for purr for no reason leave hair everywhere, decide to want nothing to do with my owner today."
